@@ -1,1 +1,21 @@
 MAESTRO: A Data-Centric Approach to Understand Reuse, Performance, and Hardware Cost of DNN Mappings
+
+Abstract—The efficiency of an accelerator depends on three factors—mapping, deep  neural network (DNN) layers, and hardware—constructing extremely complicated design  space of DNN accelerators. To demystify such complicated design space and guide the  DNN accelerator design for better efficiency, we propose an analytical cost model,  MAESTRO. MAESTRO receives DNN model description and hardware resources  information as a list, and mapping described in a data-centric representation we propose  as inputs. The data-centric representation consists of three directives that enable  concise description of mappings in a compiler-friendly form. MAESTRO analyzes various  forms of data reuse in an accelerator based on inputs quickly and generates more than 20  statistics including total latency, energy, throughput, etc., as outputs. MAESTRO’s fast  analysis enables various optimization tools for DNN accelerators such as hardware design  exploration tool we present as an example.  
+摘要：加速器的效率取决于三个因素：映射、深度神经网络 (DNN) 层和硬件，构建了极其复杂的 DNN 加速器设计空间。为了揭开如此复杂的设计空间的神秘面纱并指导 DNN 加速器设计以提高效率，我们提出了一种分析成本模型 MAESTRO。 MAESTRO 接收 DNN 模型描述和硬件资源信息作为列表，并以我们建议作为输入的以数据为中心的表示形式描述映射。以数据为中心的表示由三个指令组成，这些指令能够以编译器友好的形式对映射进行简洁的描述。 MAESTRO 根据输入快速分析加速器中各种形式的数据重用，并生成 20 多种统计数据，包括总延迟、能量、吞吐量等作为输出。 MAESTRO 的快速分析支持 DNN 加速器的各种优化工具，例如我们作为示例介绍的硬件设计探索工具。
+
+INTRODUCTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
